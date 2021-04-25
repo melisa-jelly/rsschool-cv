@@ -16,3 +16,11 @@
 > I want to develop, take part in open projects and hackathons, wrate articles, and act as a speaker at meetups and conferences.
 
 
+#### Skills
+---
+- I express my point of view reasonably and consider both points of view in dispute;
+- I am constantly studying new technologies;
+- Wide outlook, intelligence, concentration on goals;
+- In my opinion, cannot be done tasks does not exists. 
+
+
