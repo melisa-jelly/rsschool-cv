@@ -24,3 +24,10 @@
 - In my opinion, cannot be done tasks does not exists. 
 
 
+#### Education Experience
+---
+- Explore SWIFT with Apple's swiftbook sandbox
+- Expore low-level binary logic with my friend (senior server developer)
+- Using the git [sandbox](https://learngitbranching.js.org/?locale=ru_RU) to learn about versioning technology and elaboration
+
+
