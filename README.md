@@ -1,1 +1,0 @@
-https://melisa-jelly.github.io/rsschool-cv/cv
