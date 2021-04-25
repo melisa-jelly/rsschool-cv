@@ -31,3 +31,10 @@
 - Using the git [sandbox](https://learngitbranching.js.org/?locale=ru_RU) to learn about versioning technology and elaboration
 
 
+#### Education
+---
+| Educational institution | Years of study | Faculty | Specialty | Degree |
+| ------ | ------ | ------ | ------ | ------ |
+| Belarusian State University (BSU) | 2018 - 2022 | Faculty of Regional geology | Engineering geology and exploration of mineral deposits | Bachelor’s Degree |
+
+
