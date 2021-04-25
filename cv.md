@@ -2,12 +2,9 @@
 
 #### Contact info
 ---
-| Type | Contact |
-| ------ | ------ |
-| Phone number | **+375291317897** |
-| Gmail | **[chulkinalizok@gmail.com](mailto:chulkinalizok@gmail.com)** |
-| Telegram | **[@Lizok_lee](https://t.me/Lizok_lee)** |
-
+Phone number: **+375291317897**
+Gmail: **[chulkinalizok@gmail.com](mailto:chulkinalizok@gmail.com)**
+Telegram: **[@Lizok_lee](https://t.me/Lizok_lee)**
 
 #### Summary
 ---
@@ -33,10 +30,7 @@
 
 #### Education
 ---
-| Educational institution | Years of study | Faculty | Specialty | Degree |
-| ------ | ------ | ------ | ------ | ------ |
-| Belarusian State University (BSU) | 2018 - 2022 | Faculty of Regional geology | Engineering geology and exploration of mineral deposits | Bachelor’s Degree |
-
+Belarusian State University (BSU) [2018 - 2022] - Faculty of Regional geology (Engineering geology and exploration of mineral deposits) Bachelor’s Degree
 
 #### Languages
 - Russian (Native speaker)
