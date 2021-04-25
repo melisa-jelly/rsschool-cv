@@ -38,3 +38,7 @@
 | Belarusian State University (BSU) | 2018 - 2022 | Faculty of Regional geology | Engineering geology and exploration of mineral deposits | Bachelor’s Degree |
 
 
+#### Languages
+- Russian (Native speaker)
+- Belarusian (Native language)
+- English (B1 = Intermediate)
